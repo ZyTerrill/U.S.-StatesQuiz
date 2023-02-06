@@ -1,10 +1,6 @@
 import turtle
 import pandas
 
-# Alignment and font for state names
-ALIGNMENT = "center"
-FONT = ("Courier", 10, "normal")
-
 # Using US map as turtle shape
 screen = turtle.Screen()
 screen.title("U.S. States Game")
